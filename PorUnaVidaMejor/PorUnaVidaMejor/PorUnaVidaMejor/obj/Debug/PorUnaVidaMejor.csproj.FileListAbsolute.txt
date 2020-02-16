@@ -1,0 +1,126 @@
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s101e1\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\s103e24\Desktop\bvo\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s101e12\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s112e1\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\user\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s103e24\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s101e9\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\HP\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojResolveAssemblyReference.cache
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.Cache
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\s113e21\Desktop\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe.config
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.exe
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\bin\Debug\PorUnaVidaMejor.pdb
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csprojAssemblyReference.cache
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Cursos.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Estudiantes.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Form1.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.InsEstudiante.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.MatEstudiante.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.Properties.Resources.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.csproj.GenerateResource.cache
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.exe
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PorUnaVidaMejor\PorUnaVidaMejor\PorUnaVidaMejor\obj\Debug\PorUnaVidaMejor.pdb
